@@ -107,8 +107,6 @@ flowchart TD
     SMTP --> Gmail["Gmail"]
     IMAP --> Gmail
 
-
-    ![Full Architecture card](docs/screenshots/smartreply_ai_architecture.png)
 ```
 
 ### Components
