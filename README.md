@@ -347,7 +347,7 @@ With `WA_FAKE_SEND=true`, approved replies are logged and stored but never leave
 
 ### WhatsApp reply approval
 ![WhatsApp reply approval card](docs/screenshots/whatsapp-approval.png)
-
+![Full Architecture](docs/screenshots/smartreply_ai_architecture.png)
 
 ---
 
