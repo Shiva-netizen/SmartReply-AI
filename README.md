@@ -214,7 +214,7 @@ Dependencies are listed in `requirements.txt`: `langchain`, `langchain-groq`, `l
 
 ```bash
 # 1. Clone
-git clone <your-repository-url>   # TODO: replace with the actual repository URL
+git clone <https://github.com/Shiva-netizen/SmartReply-AI.git>   # TODO: replace with the actual repository URL
 cd SmartReply-AI                  # TODO: adjust to the actual folder name
 
 # 2. Create a virtual environment
