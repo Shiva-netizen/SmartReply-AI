@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Runtime data (contains emails / phone numbers)
+*.log
+sent_history.json
+whatsapp.db
+whatsapp.db-wal
+whatsapp.db-shm
+
+# Editor / OS / tools
+.DS_Store
+.agents/
+.claude/
