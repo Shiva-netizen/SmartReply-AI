@@ -10,7 +10,6 @@
 
 SmartReply-AI is a Streamlit application backed by a tool-calling LLM agent. It reads and summarizes Gmail messages, reads WhatsApp Business inquiries, and drafts replies. **Nothing is sent until the user reviews, optionally edits, and approves the draft.**
 
-<!-- TODO: add a LICENSE file and a license badge if you want to publish under an open-source license. No license file was found, so none is claimed here. -->
 
 ---
 
@@ -197,7 +196,6 @@ Dependencies are listed in `requirements.txt`: `langchain`, `langchain-groq`, `l
 └── whatsapp_webhook.log   # Webhook log
 ```
 
-<!-- TODO: confirm the final tree against the repository (for example .gitignore, .env.example, LICENSE, docs/). -->
 
 ---
 
@@ -214,8 +212,8 @@ Dependencies are listed in `requirements.txt`: `langchain`, `langchain-groq`, `l
 
 ```bash
 # 1. Clone
-git clone <https://github.com/Shiva-netizen/SmartReply-AI.git>   # TODO: replace with the actual repository URL
-cd SmartReply-AI                  # TODO: adjust to the actual folder name
+git clone <https://github.com/Shiva-netizen/SmartReply-AI.git>   
+cd SmartReply-AI                 
 
 # 2. Create a virtual environment
 python -m venv .venv
@@ -326,8 +324,6 @@ With `WA_FAKE_SEND=true`, approved replies are logged and stored but never leave
 ---
 
 ## Screenshots / Demo
-
-<!-- TODO: add screenshots to a folder such as docs/screenshots/ and update the paths below. None are in the repository yet. -->
 
 | Screen | Why it is worth showing |
 |---|---|
