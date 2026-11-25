@@ -7,6 +7,7 @@
 ![LangChain](https://img.shields.io/badge/agent-LangChain%20%2B%20LangGraph-1C3C3C)
 ![FastAPI](https://img.shields.io/badge/webhook-FastAPI-009688)
 ![Groq](https://img.shields.io/badge/LLM-Groq-F55036)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 SmartReply-AI is a Streamlit application backed by a tool-calling LLM agent. It reads and summarizes Gmail messages, reads WhatsApp Business inquiries, and drafts replies. **Nothing is sent until the user reviews, optionally edits, and approves the draft.**
 
@@ -431,6 +432,12 @@ This project demonstrates:
 - **API integration**: Gmail IMAP/SMTP and Meta's WhatsApp Cloud API, including webhooks and signature verification
 - **Human-in-the-loop AI**: approve, edit, or reject before any side effect
 - **Workflow automation**: turning inbox and chat triage into a guided, reviewable process
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
